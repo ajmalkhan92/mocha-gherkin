@@ -2,7 +2,7 @@
   "name": "mocha-gherkin",
   "version": "0.2.0",
   "engines": {
-    "node": "~0.6.1"
+    "node": "~10.17.0"
   },
   "dependencies": {
     "gherkin": "~2.9.3",
